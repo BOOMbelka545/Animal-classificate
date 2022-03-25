@@ -1,7 +1,7 @@
 import os, shutil
 
-full_CAT_dir = '/home/boombelka/ПРОГРАММИРОВАНИЕ/animal_recognition/Dogs vs cats/images_cats_dogs/Cat'
-full_DOG_dir = '/home/boombelka/ПРОГРАММИРОВАНИЕ/animal_recognition/Dogs vs cats/images_cats_dogs/Dog'
+full_CAT_dir = '/home/boombelka/ПРОГРАММИРОВАНИЕ/animal_recognition/images_cats_dogs/Cat'
+full_DOG_dir = '/home/boombelka/ПРОГРАММИРОВАНИЕ/animal_recognition/images_cats_dogs/Dog'
 Base_dir = '/home/boombelka/ПРОГРАММИРОВАНИЕ/animal_recognition/Basa_date'
 
 # dir
